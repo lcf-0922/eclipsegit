@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%
+	<%//123
 		request.setCharacterEncoding("utf-8");
 		String name = request.getParameter("uname");
 		int age = Integer.parseInt(request.getParameter("uage"));
