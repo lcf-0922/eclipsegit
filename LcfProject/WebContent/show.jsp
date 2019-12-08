@@ -8,6 +8,7 @@
 </head>
 <body>
 	<%//123
+//helloword
 		request.setCharacterEncoding("utf-8");
 		String name = request.getParameter("uname");
 		int age = Integer.parseInt(request.getParameter("uage"));
